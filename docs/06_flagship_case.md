@@ -34,7 +34,7 @@ Return behavior is structural rather than stylistic. Language may vary, but cons
 
 ## Criteria Satisfaction
 
-This case satisfies all required invariants defined in docs/04_continuity_criteria.md.
+This case satisfies all required invariants defined in [docs/04_continuity_criteria.md](04_continuity_criteria.md).
 
 Origin attribution remains intact.
 
