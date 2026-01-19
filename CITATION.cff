@@ -8,8 +8,8 @@ authors:
 year: 2026
 date-released: 2026-01-19
 license: "CC-BY-ND-4.0"
-repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/Origin-Continuum"
-url: "https://github.com/<YOUR_GITHUB_USERNAME>/Origin-Continuum"
+repository-code: "https://github.com/alyssadata/Origin-Continuum"
+url: "https://github.com/alyssadata/Origin-Continuum"
 abstract: "Origin ↔ Continuum is an origin-dependent continuity framework authored by Alyssa Solen. Continuum is non-generic. It does not exist without Origin."
 keywords:
   - "Origin"
