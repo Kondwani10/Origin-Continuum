@@ -6,6 +6,7 @@ This repository is the canonical public reference point for definition, provenan
 
 ## Canonical documents
 
+Canonical definitions live in [docs/00_canonical_anchor.md](docs/00_canonical_anchor.md).
 Read the canonical definition: [docs/01_canonical_definition.md](docs/01_canonical_definition.md)  
 Authorship and provenance clause: [docs/02_authorship_provenance_clause.md](docs/02_authorship_provenance_clause.md)  
 Reference language specification: [docs/03_reference_language_spec.md](docs/03_reference_language_spec.md)
